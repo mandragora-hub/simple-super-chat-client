@@ -1,0 +1,76 @@
+{
+  "name": "SuperChat",
+  "author": "Mandragora-hub",
+  "licence": "MIT",
+  "version": "1.0.0",
+  "private": false,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "dependencies": {
+    "@emotion/core": "^10.0.35",
+    "@emotion/styled": "^10.0.27",
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/data-grid": "^4.0.0-alpha.14",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/lab": "^4.0.0-alpha.56",
+    "@material-ui/styles": "^4.10.0",
+    "clsx": "^1.1.1",
+    "formik": "^2.2.6",
+    "history": "^5.0.0",
+    "html-react-parser": "^1.2.6",
+    "lodash": "^4.17.19",
+    "material-ui-dropzone": "^3.5.0",
+    "material-ui-popup-state": "^1.7.1",
+    "moment": "^2.27.0",
+    "notistack": "^1.0.1",
+    "nprogress": "^0.2.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-chartjs-2": "^2.10.0",
+    "react-dom": "^16.13.1",
+    "react-fade-in": "^1.1.1",
+    "react-feather": "^2.0.8",
+    "react-helmet": "^6.1.0",
+    "react-icons": "^3.11.0",
+    "react-lottie": "^1.2.3",
+    "react-perfect-scrollbar": "^1.5.8",
+    "react-query": "^2.26.2",
+    "react-router": "^6.0.0-beta.0",
+    "react-router-dom": "^6.0.0-beta.0",
+    "react-scripts": "^3.4.1",
+    "react-swipeable-views": "^0.13.9",
+    "socket.io-client": "^4.0.2",
+    "uuid": "^8.3.0",
+    "yup": "^0.29.3"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-react": "^7.20.3",
+    "eslint-plugin-react-hooks": "^2.5.1",
+    "prettier": "^1.19.1"
+  }
+}
